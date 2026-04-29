@@ -1,0 +1,6 @@
+Model,F1,Bal_Acc,Recall
+XGBoost,0.714,0.814,0.714
+Random Forest,0.615,0.742,0.571
+Logistic Regression,0.615,0.742,0.571
+Linear SVM,0.533,0.699,0.571
+Naive Baseline,0.0,0.5,0.0
