@@ -1,0 +1,4 @@
+Approach,F1,Bal_Acc,Recall,Training_rows,Note
+Nepal-only XGBoost (LOOCV),0.714,0.814,0.714,29,Best model
+Panel — All 5 Countries (Nepal LOOCV),0.5,0.655,0.5,145,More data but noisier
+South Asia only (no Nepal in training),0.25,0.571,0.143,116,Transfer learning failed
